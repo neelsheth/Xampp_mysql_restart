@@ -1,4 +1,4 @@
-# in C:\xampp\mysql\repair-mysql-data.ps1
+# in C:\xampp\mysql\repair-mysql-data.ps1 , add below file , save , and just open with terminal
 
 # Delete existing data_old directory (Not Tested)
 # Remove-Item -Path "./data_old" -Recurse -Force
